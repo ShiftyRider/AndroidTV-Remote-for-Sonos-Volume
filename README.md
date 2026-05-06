@@ -36,7 +36,7 @@ Next I tried Kodi. Again very easy via userdata/keymaps. But way too slow to be 
 
 Last but not least, did you know that the Spotify apps that smart TVs have don't really present the Spotify Connect functionality to the user? So it's kinda fun to sideload a phone version of Spotify to test. You guessed it! The phone versions cause your phone's volume buttons to be Sonos volume buttons. And the same tends to be true with your TV remote if that sideloaded Spotify is in the foreground of your TV. Heh! Even with the TV "off" in my case.
 
-# [ignore]
+# [ignore but check back later]
 
 **Oops Sonos speakers.** Built by 
 
