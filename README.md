@@ -1,9 +1,8 @@
 # Use AndroidTV Remote for Sonos Volume
 I bought an Onn AndroidTV stick from Walmart on Black Friday for $9. I'd never otherwise use the bottom four buttons on the remote...
 
-YouTube
-
-Disney
+- YouTube
+- Disney
 
 Netflix
 
