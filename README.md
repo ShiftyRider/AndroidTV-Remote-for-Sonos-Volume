@@ -24,7 +24,7 @@ My recommendation for understanding UPnP is to experiment with a UPnP Explorer a
 
 ## Whimsical Remotes
 
-Since a dial knob like any 2000-era car radio would have is universally regarded as a simple volume control, that's a worthy component of an ideal Sonos remote. Mouse scrollwheels are so common and inexpensive, so let's brainstorm. 
+Since a dial knob (like any 2000-era car radio would have) is universally regarded as a simple volume control, that's a worthy component of an ideal Sonos remote. Mouse scrollwheels are so common and inexpensive, so let's brainstorm. 
 
 Just type into AI: ubuntu remap mouse wheel to perform http request
 
