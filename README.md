@@ -3,22 +3,24 @@ I bought an Onn AndroidTV stick from Walmart on Black Friday for $9. I'd never o
 
 - YouTube
 - Disney
-
-Netflix
-
-Paramount
+- Netflix
+- Paramount
 
 ...so I used tvQuickActions (free) to remap two of them.
 
 There's three apps I like that can be sideloaded to AndroidTV and that work well with tvQuickActions or any other Android button mapper app...
 
-Automate (Llamalab)
+- Automate (Llamalab)
+- MacroDroid (but not recent versions)
+- HTTP Shortcuts
 
-MacroDroid
+The files in this repository (and the screenshots) are Automate Flows for you to download. Point to them with your button mapper app and you too will have a Sonos Volume Remote. Look within the flows for where the ip variable is set -- you'll need to modify that. Enjoy!
 
-HTTP Shortcuts
+Also works on FireTV, where my tests were with a FireTV TV (not stick or box) and the Button Mapper (flar2) app.
 
-The files in this repository (and the screenshots) are Automate Flows for you to download. Point to them with your button mapper app and you too will have a Sonos Volume Remote. Enjoy!
+## UPnP
+
+My recommendation for understanding UPnP is to experiment with a UPnP Explorer app. For Android that's UPnP Explorer, if you're on iPhone I believe uPnP Mate would be your go-to.
 
 ## Whimsical Remotes
 
