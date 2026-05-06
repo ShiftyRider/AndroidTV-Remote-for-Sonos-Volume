@@ -8,11 +8,11 @@ I bought an Onn AndroidTV stick from Walmart on Black Friday for $9. I'd never o
 
 ...so I used tvQuickActions (free) to remap two of them.
 
-There's three apps I like that can be sideloaded to AndroidTV and that work well with tvQuickActions or any other Android button mapper app...
+There's three apps I like (ordered by size, smallest-to-largest, below) that can be sideloaded to AndroidTV and that work well with tvQuickActions or any other Android button mapper app...
 
 - Automate (Llamalab)
-- MacroDroid (but not recent versions)
 - HTTP Shortcuts (Waboodoo)
+- MacroDroid (but not recent versions)
 
 The files in this repository (and the screenshots) are Automate Flows for you to download. Point to them with your button mapper app and you too will have a Sonos Volume Remote. Look within the flows for where the ip variable is set -- you'll need to modify that. Enjoy!
 
