@@ -34,7 +34,7 @@ Works great, very fast. There are unintended consequences, so I'ma characterize 
 
 Next I tried Kodi. Again very easy via userdata/keymaps. But way too slow to be usable, based on tests with a FireTV TV, and also with an Onn AndroidTV stick.
 
-Last but not least, did you know that the Spotify apps that smart TVs have don't really present the Spotify Connect functionality to the user? So it's kinda fun to sideload a phone version of Spotify to test. You guessed it! The phone versions cause your phone's volume buttons to be Sonos volume buttons. And the same tends to be true with your TV remote if that sideloaded Spotify is in the foreground of your TV. Heh! Even with the TV "off" in my case.
+Last but not least, did you know that the Spotify apps that smart TVs have don't really present the Spotify Connect functionality to the user? So it's kinda fun to sideload a phone version of Spotify to test. You guessed it! The phone versions cause your phone's volume buttons to be Sonos volume buttons. And the same tends to be true with your TV remote if that sideloaded Spotify is in the foreground of your TV. Woah! Even with the TV "off" in my case.
 
 # [ignore but check back later]
 
