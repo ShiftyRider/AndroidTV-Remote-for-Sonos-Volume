@@ -1,15 +1,28 @@
-# temp
-draft
+# Use AndroidTV Remote for Sonos Volume
+I bought an Onn AndroidTV stick from Walmart on Black Friday for $9. I'd never optherwise use the bottom four buttons on the remote...
+
+YouTube     Netflix
+Disney      Paramount
+
+...so I used tvQuickActions (free) to remap two of them.
+
+There's three apps I like that can be sideloaded to AndroidTV and that work well with tvQuickActions or any other Android button mapper app...
+
+Automate (Llamalab)
+MacroDroid
+HTTP Shortcuts
+
+The files in this repository (and the screenshots) are Automate Flows for you to download. Point to them with your button mapper app and you too will have a Sonos Volume Remote. Enjoy!
 
 # 
 
 **Oops Sonos speakers.** Built by 
 
-> Oops was previous
+> Oops
 
-> **Looking for oops** See [oops.md](technical_readme.md) for architecture, protocols, and build instructions.
+> **Looking** See [oops.md](technical_readme.md) for stuff.
 
-![Oops — Browse, Now Playing with the new About tab, and Queue](screenshots/v4/mainview.png)
+![Oops — Look](screenshots/doLessLarge.png)
 
 ---
 
