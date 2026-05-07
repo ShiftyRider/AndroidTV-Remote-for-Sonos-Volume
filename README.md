@@ -6,7 +6,7 @@ I bought an Onn AndroidTV stick from Walmart on Black Friday for $9. I'd never o
 - Netflix
 - Paramount
 
-...so I used tvQuickActions (free) to remap two of them.
+...so I used tvQuickActions (free) to remap two of them to control my Sonos (a pair of Moves in stereo).
 
 There's three apps I like (ordered by size, smallest-to-largest, below) that can be sideloaded to AndroidTV and that work well with tvQuickActions or any other Android button mapper app...
 
