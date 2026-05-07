@@ -34,6 +34,19 @@ Here's the cURL command for Sonos Volume Up (doMoreSmall.flo)...
 
 ```
 curl -s -H "Content-Type: text/xml; charset=\"utf-8\"" \
+     -H "SOAPAction: \"urn:schemas-upnp-org:service:RenderingControl:1#SetRelativeVolume\"" \
+     -d '<?xml version="1.0"?>
+         <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"
+                     s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+           <s:Body>
+             <u:SetRelativeVolume xmlns:u="urn:schemas-upnp-org:service:RenderingControl:1">
+               <InstanceID>0</InstanceID>
+               <Channel>Master</Channel>
+               <Adjustment>10</Adjustment>
+             </u:SetRelativeVolume>
+           </s:Body>
+         </s:Envelope>' \
+     http://192.168.1.33:1400/MediaRenderer/RenderingControl/Control
 ```
 
 My recommendation for understanding UPnP is to experiment with a UPnP Explorer app. For Android that's UPnP Explorer, if you're on iPhone I believe uPnP Mate would be your go-to (and there's no need to perform UPnP exploring from a TV).
