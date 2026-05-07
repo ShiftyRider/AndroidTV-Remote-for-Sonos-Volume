@@ -32,7 +32,8 @@ I use CX File Explorer on all my phones and TVs for creating app backups (APKs),
 
 Here's the cURL command for Sonos Volume Up (doMoreSmall.flo)...
 
-```curl -s -H "Content-Type: text/xml; charset=\"utf-8\"" \
+```
+curl -s -H "Content-Type: text/xml; charset=\"utf-8\"" \
 ```
 
 My recommendation for understanding UPnP is to experiment with a UPnP Explorer app. For Android that's UPnP Explorer, if you're on iPhone I believe uPnP Mate would be your go-to (and there's no need to perform UPnP exploring from a TV).
