@@ -28,7 +28,7 @@ I use CX File Explorer on all my phones and TVs for creating app backups (APKs),
 
 ## UPnP
 
-My recommendation for understanding UPnP is to experiment with a UPnP Explorer app. For Android that's UPnP Explorer, if you're on iPhone I believe uPnP Mate would be your go-to.
+My recommendation for understanding UPnP is to experiment with a UPnP Explorer app. For Android that's UPnP Explorer, if you're on iPhone I believe uPnP Mate would be your go-to (and there's no need to perform UPnP exploring from a TV).
 
 ## Whimsical Remotes
 
