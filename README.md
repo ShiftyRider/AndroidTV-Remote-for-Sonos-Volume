@@ -78,13 +78,13 @@ Since a dial knob (like any 2000-era car radio would have) is universally regard
 
 Just type into AI: ubuntu remap mouse wheel to perform http request
 
-In minutes you have Bluetooth Mouse Wheel Volume! I tested on my X11 window-managed system, all it needs is xbindkeys and two shell scripts (each would just be one cURL command, see above).
+In minutes you have Bluetooth Mouse Wheel Volume! I tested on my X11-window-managed system, all it needs is xbindkeys and two shell scripts (each would just be one cURL command, see above).
 
 Works great, very fast. There are unintended consequences, so I'ma characterize as whimsical. I bet folks running Raspberry Pis anyway, can proceed. Bluetooth mice are about $9 too, heh.
 
-Next I tried Kodi. Again very easy via userdata/keymaps. But way too slow to be usable, based on tests with a FireTV TV, and also with an Onn AndroidTV stick.
+Next I tried Kodi. Again very easy via userdata/keymaps. But way too slow to be usable, based on tests with an Onn AndroidTV stick, and also with a FireTV TV.
 
-Last but not least, did you know that the Spotify apps that smart TVs have don't really present the Spotify Connect functionality to the user? So it's kinda fun to sideload a phone version of Spotify to test. You guessed it! The phone versions cause your phone's volume buttons to be Sonos volume buttons. And the same tends to be true with your TV remote if that sideloaded Spotify is in the foreground of your FireTV. Woah! Even with the TV "off" in my case.
+Last but not least, did you know that the Spotify apps that smart TVs have don't really present the Spotify Connect functionality to the user? So it's kinda fun to sideload a phone version of Spotify to test. You guessed it! The phone versions cause your phone's volume buttons to be Sonos volume buttons. And the same tends to be true with your TV remote if that sideloaded Spotify is in the foreground of your FireTV. So again, Sonos Volume. Woah! Even with the TV "off" in my case.
 
 ![Oops — Look](screenshots/doLessLarge.png)
 
