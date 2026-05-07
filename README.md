@@ -18,6 +18,14 @@ The files in this repository (and the screenshots) are Automate Flows for you to
 
 Also works on FireTV, where my tests were with a FireTV TV (not stick or box) and the Button Mapper (flar2) app. I gotta say the $9 Onn is pretty ideal tho -- once set up it can be standalone. It draws 1.7 Watts always-on, so who knows? You might have more Onns than you have TVs (cuz for example your kitchen and patio are more likely to have Sonos speakers than TVs).
 
+## Peculiarities of Sideloaded Apps
+
+I believe Automate will NOT need any permissions, so if it prompts and one of the choices is "Never" then choose that. Prolly cuz it's not really meant for TV, sometimes it seems to forget the app-specific presentation of permission checkboxes which is confusing but prolly best ignored.
+
+Please have a bluetooth mouse available for pairing with your TV whenever frustration might set in, with all these apps.
+
+I use CX File Explorer on all my phones and TVs for creating app backups (APKs), file transfers, etc.
+
 ## UPnP
 
 My recommendation for understanding UPnP is to experiment with a UPnP Explorer app. For Android that's UPnP Explorer, if you're on iPhone I believe uPnP Mate would be your go-to.
