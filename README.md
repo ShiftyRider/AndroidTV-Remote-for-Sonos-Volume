@@ -70,7 +70,8 @@ curl -s -H "Content-Type: text/xml; charset=\"utf-8\"" \
 
 My recommendation for understanding UPnP is to experiment with a UPnP Explorer app. For Android that's UPnP Explorer, if you're on iPhone I believe uPnP Mate would be your go-to (and there's no need to perform UPnP exploring from a TV).
 
-I'ma provide a description of the flow logic later. For now just feel free to inspect the flows STARTING with the dictionary object variable myDict and/or myObj. It represents the UPnP device/service/action that a UPnP Explorer deep-dive shows.
+I'ma provide a description of the flow logic later. For now just feel free to inspect the flows STARTING with the dictionary object variable myDict and/or myObj. It represents the UPnP device/service/action that a UPnP Explorer deep-dive shows. "Set variable myDict" is kinda visible below, leftmost block...
+![Oops — Look](screenshots/doLessLarge.png)
 
 ## Whimsical Remotes
 
@@ -85,7 +86,5 @@ Works great, very fast. There are unintended consequences, so I'ma characterize 
 Next I tried Kodi. Again very easy via userdata/keymaps. But way too slow to be usable, based on tests with an Onn AndroidTV stick, and also with a FireTV TV.
 
 Last but not least, did you know that the Spotify apps that smart TVs have don't really present the Spotify Connect functionality to the user? So it's kinda fun to sideload a phone version of Spotify to test. You guessed it! The phone versions cause your phone's volume buttons to be Sonos volume buttons. And the same tends to be true with your TV remote if that sideloaded Spotify is in the foreground of your FireTV. So again, Sonos Volume. Woah! Even with the TV "off" in my case.
-
-![Oops — Look](screenshots/doLessLarge.png)
 
 ---
