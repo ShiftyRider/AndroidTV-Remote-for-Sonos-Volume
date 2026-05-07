@@ -16,7 +16,7 @@ There's three apps I like (ordered by size, smallest-to-largest, below) that can
 
 The files in this repository (and the screenshots) are Automate Flows for you to download. Point to them with your button mapper app and you too will have a Sonos Volume Remote. Look within the flows for where the ip variable is set -- you'll need to modify that. Enjoy!
 
-Also works on FireTV, where my tests were with a FireTV TV (not stick or box) and the Button Mapper (flar2) app. I gotta say the $9 Onn is pretty ideal tho -- once set up it can be standalone. It draws 1.7 Watts always-on, so who knows? You might have more Onns than you have TVs (cuz for example your kitchen and patio are more likely to have Sonos speakers than TVs).
+Also works on FireTV, where my tests were with a FireTV TV (not stick or box) and the (free version of) Button Mapper (flar2) app. I gotta say the $9 Onn is pretty ideal tho -- once set up it can be standalone. It draws 1.7 Watts always-on, so who knows? You might have more Onns than you have TVs (cuz for example your kitchen and patio are more likely to have Sonos speakers than TVs).
 
 ## Peculiarities of Sideloaded Apps
 
