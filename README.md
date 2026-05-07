@@ -30,6 +30,8 @@ I use CX File Explorer on all my phones and TVs for creating app backups (APKs),
 
 ## UPnP
 
+All the devices should be on the same LAN. In this repository the Sonos device ip is 192.168.1.33
+
 Here's the cURL command for Sonos Volume Up (doMoreSmall.flo)...
 
 ```
