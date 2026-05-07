@@ -78,7 +78,7 @@ Since a dial knob (like any 2000-era car radio would have) is universally regard
 
 Just type into AI: ubuntu remap mouse wheel to perform http request
 
-In minutes you have Bluetooth Mouse Wheel Volume! I tested on my X11 window-managed system, all it needs is xbindkeys and a relvolup.sh and a relvoldn.sh (each would just be one cURL command, see above).
+In minutes you have Bluetooth Mouse Wheel Volume! I tested on my X11 window-managed system, all it needs is xbindkeys and two shell scripts (each would just be one cURL command, see above).
 
 Works great, very fast. There are unintended consequences, so I'ma characterize as whimsical. I bet folks running Raspberry Pis anyway, can proceed. Bluetooth mice are about $9 too, heh.
 
