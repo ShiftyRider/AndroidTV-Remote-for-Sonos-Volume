@@ -26,6 +26,8 @@ Please have a bluetooth mouse available for pairing with your TV whenever frustr
 
 I use CX File Explorer on all my phones and TVs for creating app backups (APKs), file transfers, etc.
 
+> Maybe sideloading is too much trouble? I understand. Your solution would be to use the paid version of a button mapper app, which tends to let you map a cURL command or http request directly instead of by pointing to a shortcut. (It's not that I'm too cheap to want the paid version -- it's that I'm doing other complicated stuff too, so I need Automate etc no matter what.)
+
 ## UPnP
 
 My recommendation for understanding UPnP is to experiment with a UPnP Explorer app. For Android that's UPnP Explorer, if you're on iPhone I believe uPnP Mate would be your go-to (and there's no need to perform UPnP exploring from a TV).
