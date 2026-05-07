@@ -20,7 +20,7 @@ Also works on FireTV, where my tests were with a FireTV TV (not stick or box) an
 
 ## Peculiarities of Sideloaded Apps
 
-I believe Automate will NOT need any permissions, so if it prompts and one of the choices is "Never" then choose that. Prolly cuz it's not really meant for TV, sometimes it seems to forget the app-specific presentation of permission checkboxes which is confusing but prolly best ignored.
+I believe Automate will NOT need any permissions, so if it prompts and one of the choices is "Never" then choose that. Prolly cuz it's not really meant for TV, sometimes it seems to forget the flow-specific presentation of permission checkboxes which is confusing but prolly best ignored.
 
 Please have a bluetooth mouse available for pairing with your TV whenever frustration might set in, with all these apps.
 
