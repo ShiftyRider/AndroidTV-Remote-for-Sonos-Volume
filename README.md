@@ -36,13 +36,30 @@ Here's the cURL command for Sonos Volume Up (doMoreSmall.flo)...
 curl -s -H "Content-Type: text/xml; charset=\"utf-8\"" \
      -H "SOAPAction: \"urn:schemas-upnp-org:service:RenderingControl:1#SetRelativeVolume\"" \
      -d '<?xml version="1.0"?>
-         <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"
-                     s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+         <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
            <s:Body>
              <u:SetRelativeVolume xmlns:u="urn:schemas-upnp-org:service:RenderingControl:1">
                <InstanceID>0</InstanceID>
                <Channel>Master</Channel>
-               <Adjustment>10</Adjustment>
+               <Adjustment>6</Adjustment>
+             </u:SetRelativeVolume>
+           </s:Body>
+         </s:Envelope>' \
+     http://192.168.1.33:1400/MediaRenderer/RenderingControl/Control
+```
+
+...and here's Sonos Volume Down (doLessSmall.flo)...
+
+```
+curl -s -H "Content-Type: text/xml; charset=\"utf-8\"" \
+     -H "SOAPAction: \"urn:schemas-upnp-org:service:RenderingControl:1#SetRelativeVolume\"" \
+     -d '<?xml version="1.0"?>
+         <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+           <s:Body>
+             <u:SetRelativeVolume xmlns:u="urn:schemas-upnp-org:service:RenderingControl:1">
+               <InstanceID>0</InstanceID>
+               <Channel>Master</Channel>
+               <Adjustment>-6</Adjustment>
              </u:SetRelativeVolume>
            </s:Body>
          </s:Envelope>' \
