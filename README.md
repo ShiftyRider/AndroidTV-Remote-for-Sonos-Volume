@@ -30,6 +30,8 @@ I use CX File Explorer on all my phones and TVs for creating app backups (APKs),
 
 My recommendation for understanding UPnP is to experiment with a UPnP Explorer app. For Android that's UPnP Explorer, if you're on iPhone I believe uPnP Mate would be your go-to (and there's no need to perform UPnP exploring from a TV).
 
+I'ma provide a description of the flow logic later. For now just feel free to inspect the flows STARTING with the dictionary object variable myDict and/or myObj. It represents the UPnP device/service/action that a UPnP Explorer deep-dive shows.
+
 ## Whimsical Remotes
 
 Since a dial knob (like any 2000-era car radio would have) is universally regarded as a simple volume control, that's a worthy component of an ideal Sonos remote. Mouse scrollwheels are so common and inexpensive, so let's brainstorm. 
